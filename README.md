@@ -87,8 +87,8 @@ Useful for quick revision
 Add CSS styling
 Convert into mini projects
 Add JavaScript for interactivity
-👨‍💻 Author
 
+👨‍💻 Author
 Mohammed Furqaan
 Final Year Computer Science Engineer
 Aspiring Full Stack Developer
