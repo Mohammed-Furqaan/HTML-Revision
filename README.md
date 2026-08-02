@@ -90,7 +90,6 @@ Add JavaScript for interactivity
 
 👨‍💻 Author
 Mohammed Furqaan
-Final Year Computer Science Engineer
 Aspiring Full Stack Developer
 
 ⭐ Support
